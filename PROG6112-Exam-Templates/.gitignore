@@ -1,0 +1,21 @@
+# Compiled output
+*.class
+build/
+dist/
+out/
+target/
+
+# NetBeans / IDE files
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+
+# Files the templates create when run
+*.txt
+!README.txt
+accounts.dat
+
+# OS files
+.DS_Store
+Thumbs.db
